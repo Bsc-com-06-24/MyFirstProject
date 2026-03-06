@@ -1,0 +1,4 @@
+ git commit -m "Initial commit: Created bsc-com-06-24 file"
+[master (root-commit) 6f739f3] Initial commit: Created bsc-com-06-24 file
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 bsc-com-06-24.txt
