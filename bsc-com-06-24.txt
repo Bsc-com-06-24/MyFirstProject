@@ -2,3 +2,13 @@
 [master (root-commit) 6f739f3] Initial commit: Created bsc-com-06-24 file
  1 file changed, 0 insertions(+), 0 deletions(-)
  create mode 100644 bsc-com-06-24.txt
+
+Enumerating objects: 6, done.
+Counting objects: 100% (6/6), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (6/6), 605 bytes | 302.00 KiB/s, done.
+Total 6 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/Bsc-com-06-24/MyFirstProject.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
