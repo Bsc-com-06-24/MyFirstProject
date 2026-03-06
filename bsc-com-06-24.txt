@@ -12,3 +12,5 @@ Total 6 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
 To https://github.com/Bsc-com-06-24/MyFirstProject.git
  * [new branch]      main -> main
 branch 'main' set up to track 'origin/main'.
+
+Switched to a new branch 'feature/signup'
