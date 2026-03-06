@@ -1,47 +1,59 @@
- git commit -m "Initial commit: Created bsc-com-06-24 file"
-[master (root-commit) 6f739f3] Initial commit: Created bsc-com-06-24 file
- 1 file changed, 0 insertions(+), 0 deletions(-)
- create mode 100644 bsc-com-06-24.txt
-
-Enumerating objects: 6, done.
-Counting objects: 100% (6/6), done.
-Delta compression using up to 4 threads
-Compressing objects: 100% (3/3), done.
-Writing objects: 100% (6/6), 605 bytes | 302.00 KiB/s, done.
-Total 6 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
-To https://github.com/Bsc-com-06-24/MyFirstProject.git
- * [new branch]      main -> main
-branch 'main' set up to track 'origin/main'.
-
-Switched to a new branch 'feature/signup'
-
-Switched to branch 'main'
-Your branch is ahead of 'origin/main' by 1 commit.
-  (use "git push" to publish your local commits)
-Already up to date.
-
-Cloning into 'MyFirstProject'...
-remote: Enumerating objects: 6, done.
-remote: Counting objects: 100% (6/6), done.
-remote: Compressing objects: 100% (3/3), done.
-remote: Total 6 (delta 0), reused 6 (delta 0), pack-reused 0 (from 0)
-Receiving objects: 100% (6/6), done.
-From https://github.com/Bsc-com-06-24/MyFirstProject
- * branch            main       -> FETCH_HEAD
-Already up to date.
-
-Enumerating objects: 19, done.
-Counting objects: 100% (19/19), done.
-Delta compression using up to 4 threads
-Compressing objects: 100% (13/13), done.
-Writing objects: 100% (17/17), 2.14 KiB | 439.00 KiB/s, done.
-Total 17 (delta 3), reused 0 (delta 0), pack-reused 0 (from 0)
-remote: Resolving deltas: 100% (3/3), done.
-To https://github.com/Bsc-com-06-24/MyFirstProject.git
-   bb55e94..ea058c3  main -> main
-
-
-
-
-
-
+* commit 491d4f84e81b6e247d4bffa1f744f80e357bdcff
+| Author: Bsc-com-06-24 <Bsc-com-06-24@unima.ac.mw>
+| Date:   Fri Mar 6 12:46:42 2026 +0200
+| 
+|     informing git about the created .gitgnore
+| 
+* commit ea058c3072b3779b17e4548ff271f7f3869e1ca5
+| Author: Bsc-com-06-24 <Bsc-com-06-24@unima.ac.mw>
+| Date:   Fri Mar 6 12:42:20 2026 +0200
+| 
+|     added .gitignore to prevent tracking unnecessary files
+| 
+* commit 854ddc6b5891a99f5d4e28e12370e823343ba72f
+| Author: Bsc-com-06-24 <Bsc-com-06-24@unima.ac.mw>
+| Date:   Fri Mar 6 12:28:42 2026 +0200
+| 
+|     clonning and pulling to enable working on existing project
+| 
+* commit 422402d06f6ea2ef1dcabc3659dcf6393fb4a57d
+| Author: Bsc-com-06-24 <Bsc-com-06-24@unima.ac.mw>
+| Date:   Fri Mar 6 12:26:12 2026 +0200
+| 
+|     clonning and pulling to enable working on existing project
+| 
+* commit 1ee0f35285e0737453e87d8a4f238404511ada19
+| Author: Bsc-com-06-24 <Bsc-com-06-24@unima.ac.mw>
+| Date:   Fri Mar 6 12:14:21 2026 +0200
+| 
+|     merging branch back to main branch
+| 
+* commit 12c9ebf7db350b62dd94b2439386fca56cd0c97e
+| Author: Bsc-com-06-24 <Bsc-com-06-24@unima.ac.mw>
+| Date:   Fri Mar 6 12:11:56 2026 +0200
+| 
+|     adding a branch
+|   
+| * commit 230c39c17aae0802359e415f97cef1fe307a0bda
+|/  Author: Bsc-com-06-24 <Bsc-com-06-24@unima.ac.mw>
+|   Date:   Fri Mar 6 12:04:07 2026 +0200
+|   
+|       adding a branch
+| 
+* commit 9962a40cd9819978963ef4c30792fafac56c2a2d
+| Author: Bsc-com-06-24 <Bsc-com-06-24@unima.ac.mw>
+| Date:   Fri Mar 6 09:31:38 2026 +0200
+| 
+|     connecting to remote and pushing
+| 
+* commit bb55e9445a6be695db58a6807762b4631f18e526
+| Author: Bsc-com-06-24 <Bsc-com-06-24@unima.ac.mw>
+| Date:   Fri Mar 6 08:35:33 2026 +0200
+| 
+|     Updated log with commit confirmation
+| 
+* commit 6f739f39bf5914148c900983ef7f207ae2e27327
+  Author: Bsc-com-06-24 <Bsc-com-06-24@unima.ac.mw>
+  Date:   Fri Mar 6 07:59:24 2026 +0200
+  
+      Initial commit: Created bsc-com-06-24 file
